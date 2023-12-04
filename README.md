@@ -1,2 +1,2 @@
-# Simple-Machine-Language-Program
-A machine language example program using java
+# Simple-Machine-Learning-Program
+A machine learning example program using java
